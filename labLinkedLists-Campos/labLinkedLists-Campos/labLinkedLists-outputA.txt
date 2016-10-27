@@ -1,0 +1,26 @@
+Importing labLinkedLists-inputA.tab ...
+Printing 9999 ...
+Can not find item (9999)!
+
+Obliterating 9999 ...
+Can not delete DNA (9999), NOT found!
+
+Entries: 0
+
+Adding 1234567890 ...
+
+Entries: 1
+
+Printing 1234567890 ...
+DNA:	Label: taxon1	ID: 1234567890	Sequence: agtcgatcagaagatctcct	Length: 20	cDNAStartIndex: -1
+
+Obliterating 1234567890 ...
+
+Entries: 0
+
+Printing 1234 ...
+Can not find item (1234)!
+
+Obliterating 1234 ...
+Can not delete DNA (1234), NOT found!
+

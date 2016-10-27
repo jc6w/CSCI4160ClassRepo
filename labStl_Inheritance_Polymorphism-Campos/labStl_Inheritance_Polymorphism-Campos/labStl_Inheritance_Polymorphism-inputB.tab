@@ -1,0 +1,226 @@
+O	72
+
+R	CISY_EMENI	141	auggauccaauaucgagcacagggcccuuggucccggccggc	42	tRNA
+
+S
+
+P	141
+
+O	33
+
+S
+
+O	141
+
+S
+
+O	276
+
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+
+A	CISY_EMENI	241	MDPISSTGPLVPAG	14	-1
+
+S
+
+P	241
+
+O	33
+
+S
+
+O	241
+
+O	72
+
+S
+
+S
+
+P	229
+
+D	CISY_EMENI	41	atcaccggatggatccaatatcgagcacagggcccttggtcccggccggctag	53	8
+
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+
+S
+
+P	41
+
+O	98
+
+O	72
+
+S
+
+O	41
+
+O	33
+
+S
+
+P	111
+
+D	CISY_EMENI	41	atcaccggatggatccaatatcgagcacagggcccttggtcccggccggctag	53	8
+
+R	PK3CD_HUMAN	176	auguugccgauguauuggaagauagucauccaucuc	36	tRNA
+A	O00197_HUMAN	233	MYVFISAQAIANYPIMADTLCMALVHYPVKIYFSPMHHYLPRCRNAPCTNAL	52	1
+A	MGR8_HUMAN	298	MQRIIWSKHECVTVQFPS	18	0
+S
+P	298
+O	233
+O	76
+O	41
+
+O	298
+
+O	176
+
+O	198
+
+A	PK3CD_HUMAN	276	MLPMYWKIVIHL	12	-3
+
+A	MGR8_HUMAN	298	MQRIIWSKHECVTVQFPS	18	0
+
+A	EAA5_HUMAN	232	MLCPAVTRLFREVRANNPYPPDKPRVSRALMPLLMVNAAS	40	2
+
+A	CISY_EMENI	241	MDPISSTGPLVPAG	14	-1
+
+A	O00197_HUMAN	233	MYVFISAQAIANYPIMADTLCMALVHYPVKIYFSPMHHYLPRCRNAPCTNAL	52	1
+
+S
+
+P	298
+
+O	233
+
+O	241
+
+O	276
+
+S
+
+O	72
+
+O	232
+
+S
+
+O	298
+
+S
+
+O	198
+
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+
+A	MGR8_HUMAN	298	MQRIIWSKHECVTVQFPS	18	0
+
+A	EAA5_HUMAN	232	MLCPAVTRLFREVRANNPYPPDKPRVSRALMPLLMVNAAS	40	2
+
+D	P3C2A_HUMAN	82	aatgggtcgtttgcactgttggttgactgcggctagcgaatag	43	1
+
+R	PK3CD_HUMAN	176	auguugccgauguauuggaagauagucauccaucuc	36	tRNA
+
+R	CISY_EMENI	141	auggauccaauaucgagcacagggcccuuggucccggccggc	42	tRNA
+
+S
+
+P	141
+
+O	298
+
+O	33
+
+O	176
+
+O	82
+
+O	141
+
+O	232
+
+S
+
+O	98
+
+S
+
+O	298
+
+A	P3C2A_HUMAN	282	MGRLHCWLTAASE	13	-2
+
+R	PK3CD_HUMAN	176	auguugccgauguauuggaagauagucauccaucuc	36	tRNA
+
+R	O00197_HUMAN	133	auguauguuuucauuagugcgcaggccauugccaauuauccaauaauggcagauacauuaugcauggccuugguacauuaccccguaaaaaucuauuucucuccaaugcaucauuauuuaccccguugccgcaaugcgccauguaccaaugcgcuc	156	rRNA
+
+R	DPYL2_BOVIN	172	auggucgcauaccaaagggugcucaccuggaugcgacuu	39	mRNA
+
+R	EAA5_HUMAN	132	auguuguguccagcagugacgagauuguuuagagagguaagagcaaauaauccuuauccacccgauaaaccacguguuucgcgggcccucaugccgcuauuaauggucaaugccgcaagu	120	rRNA
+
+A	MGR8_HUMAN	298	MQRIIWSKHECVTVQFPS	18	0
+
+R	CISY_EMENI	141	auggauccaauaucgagcacagggcccuuggucccggccggc	42	tRNA
+S
+P	133
+O	133
+S
+O	132
+O	298
+S
+O	176
+O	34
+O	282
+O	172
+S
+O	141
+P	98
+A	CISY_EMENI	241	MDPISSTGPLVPAG	14	-1
+D	PK3CD_HUMAN	76	tagtaggggatgttgccgatgtattggaagatagtcatccatctctag	48	9
+D	P3C2A_HUMAN	82	aatgggtcgtttgcactgttggttgactgcggctagcgaatag	43	1
+A	O00197_HUMAN	233	MYVFISAQAIANYPIMADTLCMALVHYPVKIYFSPMHHYLPRCRNAPCTNAL	52	1
+R	EAA5_HUMAN	132	auguuguguccagcagugacgagauuguuuagagagguaagagcaaauaauccuuauccacccgauaaaccacguguuucgcgggcccucaugccgcuauuaauggucaaugccgcaagu	120	rRNA
+R	DPYL2_BOVIN	172	auggucgcauaccaaagggugcucaccuggaugcgacuu	39	mRNA
+R	HS90A_PIG	134	augugggaagcuucuauuccuacaaaacuuuaugug	36	tRNA
+
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+S
+P	134
+O	34
+S
+O	82
+O	132
+O	134
+O	76
+S
+O	98
+O	233
+
+O	241
+
+O	172
+
+O	132
+
+A	CISY_EMENI	241	MDPISSTGPLVPAG	14	-1
+
+A	EAA5_HUMAN	232	MLCPAVTRLFREVRANNPYPPDKPRVSRALMPLLMVNAAS	40	2
+
+A	O04138_ORY
+S
+A	211	MGYRESRKDKPGRGELSFFSPSIKTT	26	2
+
+R	P3C2A_HUMAN	182	augggucguuugcacuguugguugacugcggcuagcgaa	39	mRNA
+A	PK3CD_HUMAN	276	MLPMYWKIVIHL	12	-3
+
+A	DPYL2_BOVIN	272	MVAYQRVLTWMRL	13	-3
+
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+
+A	O00197_HUMAN	233	MYVFISAQAIANYPIMADTLCMALVHYPVKIYFSPMHHYLPRCRNAPCTNAL	52	1
+A	HS90A_PIG	234	MWEASIPTKLYV	12	1
+
+S
+
+P	233

@@ -1,0 +1,11 @@
+Points      Item
+----------  --------------------------------------------------------------
+            Requirements met:
+__30___ / 30  + Backtracking algorithm and comment
+_____ /     + Compiles and runs in Visual Studio and on ranger
+___50__ / 50  + Correct output (matches the format of the example exactly & demonstrates correct execution)
+
+___80__ / 80  Total
+
+
+__3___ Approximate number of hours spent

@@ -1,0 +1,5 @@
+Solved solution for 4 queens:
+- - Q - 
+Q - - - 
+- - - Q 
+- Q - - 
